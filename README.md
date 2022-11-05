@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramazan Alborov 🌊
 - 🦄 I’m interested in Android Development 🌊
-- 👨‍🎓 I’m currently learning Kotlin/libraries/frameworks 🌊
+- 👨‍🎓 I’m currently learning Kotlin/libraries/🌊
 - 👨‍💻 I’m looking to collaborate on any projects 🌊
 - 💬 Feel free to ask me about anything and everything!🌊
 - 📫 How to reach me https://t.me/HIDDENPOOLL or kazahstanuzbekskij@gmail.com 🌊
