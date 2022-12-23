@@ -1,15 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ramazan Alborov
 =======================================================================================================================================
-
-Android Developer
------------------
-
-Strongly motivated to improve Technology Stack: - View Binding - Recycler View - Fragment - VCS - Git - Architecture MVVM/Single Activity - Navigation Components - ViewModel - Room - LiveData - Kotlin Coroutines - Retrofit - Hilt - Glide Working with Figma and vector graphics there are both pet projects and ready-to-publish applications that require minor revisions modifications News Application\_
-
-*   🌍  I'm based in Russia
-*   🖥️  See my portfolio at [HeadHunter](http://hh.ru/resume/95540761ff0b354c720039ed1f4b57506b3865)
-*   ✉️  You can contact me at [kazahstanuzbekskij@gmail.com](mailto:kazahstanuzbekskij@gmail.com)
-*   🧠  I'm learning Most popular Library's
 *   🤝  I'm open to collaborating on Any projects
 *   ⚡  I'm secretly spiderman but don't tell anyone
 
